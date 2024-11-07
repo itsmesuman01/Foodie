@@ -13,25 +13,19 @@
           <div class="bg-white p-6 shadow-lg rounded-lg">
             <h3 class="text-2xl font-semibold">Fast Delivery</h3>
             <p class="text-gray-600 mt-4">Get your food delivered in under 30 minutes, hot and fresh!</p>
-            <div class="flex justify-center items-center"><img
-                class="w-[250px] h-[250px] object-cover rounded-[10px] mt-5" :src="food.first" alt="first.jpeg"></div>
           </div>
           <div class="bg-white p-6 shadow-lg rounded-lg">
             <h3 class="text-2xl font-semibold">Wide Selection</h3>
             <p class="text-gray-600 mt-4">Choose from thousands of local restaurants and cuisines.</p>
-            <div class="flex justify-center items-center"><img
-                class="w-[250px] h-[250px] object-cover rounded-[10px] mt-5" :src="food.second" alt="second.jpeg"></div>
           </div>
           <div class="bg-white p-6 shadow-lg rounded-lg">
             <h3 class="text-2xl font-semibold">Easy Ordering</h3>
             <p class="text-gray-600 mt-4">Order with just a few clicks on our user-friendly app.</p>
-            <div class="flex justify-center items-center"><img
-                class="w-[250px] h-[250px] object-cover rounded-[10px] mt-5" :src="food.third" alt="third.jpeg"></div>
           </div>
         </div>
       </div>
     </section>
-    <section id="features" class="py-20 bg-gray-100">
+    <section id="features" class="py-5 bg-gray-100">
       <div class="max-w-7xl mx-auto text-center">
         <h2 class="text-3xl font-bold">Our Dishes</h2>
         <p class="text-lg text-gray-600 mt-4">We have variety of foods available. Fast order and get your dish.</p>
