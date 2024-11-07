@@ -4,12 +4,8 @@
 </div>
 </template>
 
-<script>
+<script setup>
 const {
     id
 } = useRoute().params;
-
-definePageMeta({
-    layout: 'design'
-});
 </script>
