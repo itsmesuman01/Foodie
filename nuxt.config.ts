@@ -1,5 +1,8 @@
 export default defineNuxtConfig({
-  modules: ["@nuxtjs/tailwindcss", "@nuxtjs/axios"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    // "@nuxtjs/axios"
+  ],
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
   compatibilityDate: "2024-08-25",

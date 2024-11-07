@@ -42,7 +42,7 @@
 
         <div class="space-y-2">
           <p class="text-lg text-gray-600"><strong>Email:</strong> support@foodie.com</p>
-          <p class="text-lg text-gray-600"><strong>Phone:</strong> +1 (800) 123-4567</p>
+          <p class="text-lg text-gray-600"><strong>Phone:</strong> +977 1234567890</p>
         </div>
 
         <div class="mt-6">
