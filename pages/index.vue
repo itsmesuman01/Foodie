@@ -73,7 +73,7 @@
   </div>
 </template>
 <script>
-import { food } from '~/assets/images/images.js';
+import { food } from '~/assets/images.ts';
 export default {
   data() {
     return {
