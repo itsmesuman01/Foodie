@@ -32,9 +32,9 @@ export default defineNuxtConfig({
     },
   },
   plugins: [
-    "~/plugins/test.client.ts",
+    // "~/plugins/test.client.ts",
     "~/plugins/test.server.ts",
-    "~/plugins/test.ts",
+    // "~/plugins/test.ts",
     // '~/plugins/**/*.ts'
   ],
   build: {
